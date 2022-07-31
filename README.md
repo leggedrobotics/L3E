@@ -1,4 +1,4 @@
-# lidar_loc: Learning-based Localizability Estimation for Robust LiDAR Localization
+# L3E: Learned LiDAR Localizability Estimation
 
 ## Overview
 
